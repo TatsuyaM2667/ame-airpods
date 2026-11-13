@@ -34,7 +34,7 @@ zig build test
 
 ## このリポジトリについて
 
-正本は ame-shell の `src/cmd/ame-airpods.zig` と `src/lib/` です。このリポジトリは `scripts/split-repos.sh` が生成して同期しています。
+正本は ame-shell の `src/cmd/ame-airpods.zig` です。このリポジトリは `scripts/split-repos.sh` が生成して同期しています。
 直したいところがあれば ame-shell の方へお願いします。
 
 ライセンス: GPL-3.0(ame-shell と同じ)
